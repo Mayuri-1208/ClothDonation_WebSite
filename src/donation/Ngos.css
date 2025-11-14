@@ -1,0 +1,79 @@
+.ngo-container {
+  text-align: center;
+  padding: 30px;
+  background-color: #f7f9fc;
+}
+
+.ngo-container h1 {
+  margin-bottom: 20px;
+  font-size: 2rem;
+  color: #333;
+  font-weight: bold;
+}
+
+.search-bar {
+  padding: 12px 18px;
+  width: 350px;
+  max-width: 90%;
+  margin-bottom: 25px;
+  border: none;
+  border-radius: 25px;
+  outline: none;
+  font-size: 16px;
+  background: #fff;
+  box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.15);
+  transition: all 0.3s ease;
+}
+
+.search-bar:focus {
+  box-shadow: 0px 4px 10px rgba(0, 123, 255, 0.4);
+  transform: scale(1.02);
+}
+
+.ngo-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 25px;
+  padding-top: 10px;
+}
+
+.ngo-card {
+  background: #fff;
+  border-radius: 15px;
+  overflow: hidden;
+  box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.ngo-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0px 6px 20px rgba(0, 0, 0, 0.15);
+}
+
+.ngo-card img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.ngo-card:hover img {
+  transform: scale(1.05);
+}
+
+.ngo-card h3 {
+  font-size: 1.2rem;
+  margin: 12px 0 5px;
+  color: #333;
+}
+
+.ngo-card p {
+  margin: 0;
+  color: #666;
+}
+
+.no-results {
+  color: #888;
+  font-size: 1.1rem;
+  margin-top: 20px;
+}

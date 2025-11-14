@@ -1,0 +1,94 @@
+{
+  "ngos": [
+    {
+      "id": 1,
+      "name": "Warm Hearts Foundation",
+      "category": "Cloth Donation",
+      "location": "Mumbai, India",
+      "email": "contact@warmhearts.org",
+      "contact": "+91-9876543210",
+      "image": "/ngo1.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Clothes for All",
+      "category": "Cloth Donation",
+      "location": "Delhi, India",
+      "email": "info@clothesforall.org",
+      "contact": "+91-9988776655",
+      "image": "/ngo2.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Dress the Future",
+      "category": "Cloth Donation",
+      "location": "Bengaluru, India",
+      "email": "support@dressthefuture.org",
+      "contact": "+91-9123456780",
+      "image": "/ngo3.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Threads of Hope",
+      "category": "Cloth Donation",
+      "location": "Pune, India",
+      "email": "contact@threadsofhope.org",
+      "contact": "+91-9988001122",
+      "image": "/ngo4.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Helping Hands Wardrobe",
+      "category": "Cloth Donation",
+      "location": "Chennai, India",
+      "email": "info@helpinghandswardrobe.org",
+      "contact": "+91-9345678901",
+      "image": "/ngo5.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Cozy Care Foundation",
+      "category": "Cloth Donation",
+      "location": "Hyderabad, India",
+      "email": "contact@cozycare.org",
+      "contact": "+91-9001234567",
+      "image": "/ngo6.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Fabric of Kindness",
+      "category": "Cloth Donation",
+      "location": "Kolkata, India",
+      "email": "support@fabricofkindness.org",
+      "contact": "+91-9876001234",
+      "image": "/ngo7.jpeg"
+    },
+    {
+      "id": 8,
+      "name": "Rural Clothes Drive",
+      "category": "Cloth Donation",
+      "location": "Nagpur, India",
+      "email": "info@ruralclothesdrive.org",
+      "contact": "+91-9123456709",
+      "image": "/ngo8.jpeg"
+    },
+    {
+      "id": 9,
+      "name": "Wardrobe for Welfare",
+      "category": "Cloth Donation",
+      "location": "Lucknow, India",
+      "email": "contact@wardrobeforwelfare.org",
+      "contact": "+91-9012345678",
+      "image": "/ngo9.jpeg"
+    },
+    {
+      "id": 10,
+      "name": "Share the Warmth",
+      "category": "Cloth Donation",
+      "location": "Ahmedabad, India",
+      "email": "support@sharethewarmth.org",
+      "contact": "+91-9888777666",
+      "image": "/ngo10.jpeg"
+    }
+  ]
+}

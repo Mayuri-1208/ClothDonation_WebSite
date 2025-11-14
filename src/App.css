@@ -1,0 +1,25 @@
+/* Reset basic styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fffaf3;
+}
+
+/* Ensure content starts below fixed navbar */
+main {
+  padding-top: 80px; /* navbar height */
+  width: 100%;
+  min-height: 100vh;
+}
+
+/* Full-width and centered content for each page */
+.page-container {
+  max-width: 1200px; /* keeps it readable */
+  margin: 0 auto;
+  padding: 20px;
+}
